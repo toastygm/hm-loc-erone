@@ -13,6 +13,25 @@ The abbey is held by the Peonian Pelnala Velira Siwen, abbess of Erone.  Erone A
 is widely known as a place of healing and peace, and the waters of its natural hot
 springs are widely considered therapeutic.  
 
+# Maps
+
+The original maps from this work have been used as inspiration, and new maps have been
+designed specifically to meet the requirements of the VTT environment.  The following
+maps are part of this module.
+
+## Erone Village
+
+Map of Erone Village, including the abbey.
+
+<img src="assets/scenes/erone-area.webp" alt="Erone Village" width="600"/>
+
+## Erone Abbey
+
+Map of Erone abbey.
+
+<img src="assets/scenes/Erone_Abbey.webp" alt="Erone Abbey" width="600"/>
+
+
 # Credits
 
 This module is made possible by the hard work of HârnWorld fans,
