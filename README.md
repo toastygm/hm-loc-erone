@@ -15,8 +15,7 @@ springs are widely considered therapeutic.
 
 # Maps
 
-The original maps from this work have been used as inspiration, and new maps have been
-designed specifically to meet the requirements of the VTT environment.  The following
+The original maps from this work have been used as is.  The following
 maps are part of this module.
 
 ## Erone Village
