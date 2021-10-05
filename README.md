@@ -35,7 +35,7 @@ Map of Erone abbey.
 
 This module is made possible by the hard work of HârnWorld fans,
 and is provided at no cost. This work is an adaptation of the article
-[Charmic Manor]()https://www.lythia.com/harnworld/settlements/charmic/ available
+Erone Abbey](https://www.lythia.com/harnworld/settlements/erone-abbey/) available
 at the HârnWorld fan site [Lythia.com](https://www.lythia.com/).
 
 **Writer:** Kerry Mould
