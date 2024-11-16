@@ -1,0 +1,346 @@
+{
+  "name": "Local Map Key",
+  "pages": [
+    {
+      "name": "Abbey",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> G</p>\n<p>Located in the lush green, rich and fertile valley bottomland, on the banks of Lyben Creek, the abbey is enclosed by a tall, thick hedge. Erone Abbey is famous throughout Kaldor (and beyond) for its temple, hospital and healing spring. A simple, but elegant Peonian church sits atop a small hill overlooking the main road. The vast majority of Peonian travellers (and some Laranians) stop to pray at the temple and leave an offering. The abbey relies on the generosity of travellers and the donations pay for the support of many patients and guests. The heart and soul of the abbey is its large hospital and Tirrala’s Chapel. The nuns are known for their healing skills and the chapel has been the scene of many miracles. The abbey also provides shelter for needy travellers and generous alms for the poor.</p>",
+        "format": 1
+      },
+      "_id": "thCduqfTq5un7luc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.thCduqfTq5un7luc"
+    },
+    {
+      "name": "Cemetery",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> H</p>\n<p>Renowned for its large hospital, many extremely sick people travel great distances to seek healing at the abbey. Sadly, Peoni does not grant healing to all. Those that do not survive are buried in the abbey’s large cemetery. Their numbers have exceeded the capacity of the original enclosure and the new cemetery has already begun to fill.</p>",
+        "format": 1
+      },
+      "_id": "ZKDjgeFPBQkZWhnL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.ZKDjgeFPBQkZWhnL"
+    },
+    {
+      "name": "Demesne Farm",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> E</p>\n<p>This small cluster of buildings (including a pig sty, cow barn and bull shed) combined with the tithe barn and stable inside the abbey gates, comprise the working buildings of the abbey’s 800-acre demesne farm. The farm duties are mainly the responsibility of the lay brothers and sisters, assisted by the familia.</p>",
+        "format": 1
+      },
+      "_id": "ZkpdZVsXym7EwY9C",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.ZkpdZVsXym7EwY9C"
+    },
+    {
+      "name": "Granary and Mill",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> D</p>\n<p>The village miller is a bonded master who works for the abbey. He operates the mill and bakery on their behalf and also oversees their bakery. The abbey makes a good profit selling fresh bread to wealthy travellers. Across the road, a stout wooden palisade encloses the manor’s grain storage. It is controlled by the Beadle, who lives just behind the compound. The tailrace, below the mill, is a popular place for the women of the village to do laundry. The bushes on either side of the road are frequently covered with drying clothes.</p>",
+        "format": 1
+      },
+      "_id": "49yZyBljfTVDak1P",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.49yZyBljfTVDak1P"
+    },
+    {
+      "name": "Lyben Crossing",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> B</p>\n<p>The road crosses the shallow, hard packed gravel ford across Lyben Creek, then up and over a stone culvert across the mill’s tailrace. Approaches to the ford are conscientiously maintained by the lay brothers of the abbey and are easily negotiated by even the most heavily loaded wagon. During the summer, the water over the ford drops to just a few inches and even during the spring runoff, it is rarely more than two feet deep. It remains passable in all but the most extreme storms, and even then, the stream reverts to its normal tranquil self within a day or two.</p>",
+        "format": 1
+      },
+      "_id": "pILZvLimcJFv0h68",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.pILZvLimcJFv0h68"
+    },
+    {
+      "name": "North Common",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> A</p>\n<p>Astride the Genin Trail, on the main road to Tashal, Erone Abbey sees a great deal of traffic. The abbey has set aside the north common for use as a campsite. It is frequently filled with the wagons and pavilions of nobles, merchants, pilgrims and commoners.</p>",
+        "format": 1
+      },
+      "_id": "Yj1ezAwJEG6TU3Yb",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.Yj1ezAwJEG6TU3Yb"
+    },
+    {
+      "name": "Orchard",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location: </strong>F</p>\n<p>Across the Genin Trail from the abbey is a small, but lovingly tended apple orchard. The trees are healthy and mature. In autumn, they are heavy with ripe, red apples. At the center of the orchard are a number of beehives. The abbey produces excellent cider and mead, mostly for local consumption.</p>",
+        "format": 1
+      },
+      "_id": "dAMV0FwCD3iRiQsP",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.dAMV0FwCD3iRiQsP"
+    },
+    {
+      "name": "Pond",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> K</p>\n<p>Located above a sinkhole, this pond is much deeper and colder than it appears. Kept fresh by an underground stream, it is a popular place for the children to swim. Their laughter and yells can be heard as far as the road, as they swing from a threadbare old rope tied to the sturdy branch of a massive weeping willow tree. Each summer, usually in the month of Nolus, the pond is the scene of the annual Angyla Festival.</p>",
+        "format": 1
+      },
+      "_id": "pxzgimoizm5HDYGd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.pxzgimoizm5HDYGd"
+    },
+    {
+      "name": "Small Common",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> I</p>\n<p>The southern common is smaller and normally filled with the wagons and carts of faithful Peonians who stop to pray at the temple. It is well shaded by a clump of oak trees and is also a popular rest stop. Several of the cottar women do a brisk business selling hot food to passing merchants and nobles.</p>",
+        "format": 1
+      },
+      "_id": "t7t0Hz7IuLgfr46A",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.t7t0Hz7IuLgfr46A"
+    },
+    {
+      "name": "Village Common",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> J</p>\n<p>The large open area in the center of the village is used for small markets and celebrations. The village well is a popular gathering spot and children can be seen playing games after their chores are done.</p>",
+        "format": 1
+      },
+      "_id": "yw3wgAOwb3mXjAFS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.yw3wgAOwb3mXjAFS"
+    },
+    {
+      "name": "Village Holy Symbol",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> L</p>\n<p>At the entrance to the village is an ancient weathered hunk of granite. Carved into its face is a simple, but elegant Peonian holy symbol, a daisy (see page 1). It is a well-known and beloved landmark and quietly marks this as a place of peace and worship.</p>",
+        "format": 1
+      },
+      "_id": "IUc8Cx7iNdBJOF9D",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.IUc8Cx7iNdBJOF9D"
+    },
+    {
+      "name": "Weir",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> C</p>\n<p>Lyben Creek is broad, shallow and slow. To generate a sufficient head of water to turn the mill’s breast wheel, a sturdy four-foot high stone and timber weir was constructed. It redirects much of the stream’s flow into a stone-lined millrace. Several years ago, a wooden grill was installed at the end of the race, just before the mill wheel, after a young boy was killed when he fell into the channel and was swept into the wheel.</p>",
+        "format": 1
+      },
+      "_id": "Y0RWcM7TOYkP4MOc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!GiRKhHaQsYaYdtW7.Y0RWcM7TOYkP4MOc"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201997361,
+    "modifiedTime": 1659201997361,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "GiRKhHaQsYaYdtW7",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!GiRKhHaQsYaYdtW7"
+}

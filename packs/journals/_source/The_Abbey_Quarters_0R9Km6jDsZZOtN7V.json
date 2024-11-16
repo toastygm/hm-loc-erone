@@ -1,0 +1,1085 @@
+{
+  "name": "The Abbey Quarters",
+  "pages": [
+    {
+      "name": "Abbey Holy Symbol",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 3</p>\n<p>The symbolic centre of the abbey, this pillar has four sides, one facing each of the abbey’s four quarters. Symbols appropriate to the season decorate each face of the square pillar. It is tradition to kiss the side representing the time of the year the pilgrim visits the abbey. The limestone pillar is heavily worn at head level.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "a8wUEQpqAMv3KAnS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.a8wUEQpqAMv3KAnS"
+    },
+    {
+      "name": "Archives",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 12</p>\n<p>This small hut is the administrative hub of the abbey. The sisters who work here keep records, administer the finances records and patient lists.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "8Zl2VRtyyGmogPqp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.8Zl2VRtyyGmogPqp"
+    },
+    {
+      "name": "Back Gate",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 35</p>\n<p>The only other opening in the abbey’s hedge leads out toward the cemetery and forest. The herbalist spends much of her time collecting various useful plants from the abbey’s woodlot. Each morning, a lay brother leads a group of familia men out to cut wood. The abbey consumes a great deal of firewood. In exchange for half the charcoal he makes, the village charcoaler has the right to coppice wood in the woodlot. The charcoal is of the highest quality and almost smokeless. The abbey consumes a great deal to feed the braziers used to keep the hospital warm.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "FOOsMIgnN7UnIHDW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.FOOsMIgnN7UnIHDW"
+    },
+    {
+      "name": "Bakery",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 26</p>\n<p>The small bakery at the mill is hard pressed to satisfy the village demands for bread. Passing travellers quickly snap up the small surplus. Thus, the abbey requires its own large bakery to satisfy its daily needs. Technically, the abbey bakery falls under the franchise of the village miller, however since he is a bonded master of the abbey, it is only a formality. Secretly, the lay sisters and brothers draw lots each morning to see who has to work with Lay Sister Grunela that day.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "NI1iIFdyEHISctjA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.NI1iIFdyEHISctjA"
+    },
+    {
+      "name": "Baker’s House",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 25</p>\n<p>Lay Sister Grunela is a skilled baker, but is insufferably arrogant and hard to get along with. The lay brothers gladly volunteered to build her a hut just to get her out of the dorter.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "7OvaHYznMOZtYjWN",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.7OvaHYznMOZtYjWN"
+    },
+    {
+      "name": "Belsirasin’s Chapel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 13</p>\n<p>Dedicated to The Weeper, Lord of Virtue and Truth, this chapel is used for the nightly prayers of the priestesses and acolytes. Others may use it during the day. It has a dirt floor and no door.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "IVhgeWjKNgjhkqop",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.IVhgeWjKNgjhkqop"
+    },
+    {
+      "name": "Brew Mistress’ House",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 24</p>\n<p>This small, spartan hut is home to the senior alewife, Lay Sister Brigyne.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "vcXzRj1wPNxNzUoD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.vcXzRj1wPNxNzUoD"
+    },
+    {
+      "name": "Brewery",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 23</p>\n<p>The residents of the abbey consume sizeable quantities of ale every day. Several lay sisters work as alewives to satisfy the seemingly insatiable demand. Attached to the brew house is a large, half-buried cellar filled with large casks of ale.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "59Oe909KUFcLtdNr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.59Oe909KUFcLtdNr"
+    },
+    {
+      "name": "Ebasethe’s Dorter",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 11</p>\n<p>The second dormitory is home to thirteen Ebasethe (priestesses) and seven senior acolytes. The Avasana (Master of Archives and Treasures), Sister Annela, sleeps at the west end of the dorter. She runs the Archives, Library and Scriptorium and is responsible for the day-to-day administration of the abbey. The Levovana (Master of Healing), Sister Mylena, runs the hospital. An exceptionally talented healer, physician and surgeon in her own right (), she also organizes the priestesses and acolytes and supervises the admission and discharge of patients.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "xZqqjngNNRzaQ3vR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.xZqqjngNNRzaQ3vR"
+    },
+    {
+      "name": "Esolani’s Dorter 1",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 8</p>\n<p>This is the residence of nineteen young female Esolani (acolytes) who want to become Ebasethe (Priestesses). The Solana (Mistress of Acolytes) Sister Bela, a stern disciplinarian but heavy sleeper, sleeps at the north end. The merry and mischievous senior acolyte, Danlin of Karal, sleeps at the south end.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "JXPI7otyFs8aEyFS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.JXPI7otyFs8aEyFS"
+    },
+    {
+      "name": "Esolani’s Dorter 2",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 27</p>\n<p>This is the residence for the older male and female Esolani (acolytes) who do not seek to become Ebasethe (Priest/Priestess). They are sometimes referred to as Lay Sisters and Brothers. Although all of the Ebasethe in Erone are women, there are a significant number of male Esolani. They do much of the heavy manual labour required around the abbey. The dorter sleeps about thirty-two Esolani, leaving eight beds available for visiting Reslava (especially male priests).</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "eaLWPn6tV2YNozAp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.eaLWPn6tV2YNozAp"
+    },
+    {
+      "name": "Guest Lodge",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 31</p>\n<p>The ancient manor house is a small stone building, hardly bigger than a yeoman’s house, protected by a seven-foot tall dry laid stone wall. It only has a solar, hall and kitchen. It was built to house the two knights hired to represent the abbey in the King’s feudal levy. Since 377TR, the building has been used as a guesthouse for noble patrons and guests of the abbey. Most noble guests bring their own servants. If necessary, the Avasana will assign an acolyte or two to assist.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "g7MocwiATdlDYZGx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3075000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.g7MocwiATdlDYZGx"
+    },
+    {
+      "name": "Head Cook’s House",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 28</p>\n<p>Producing food for up to 200 people per meal requires experience, excellent planning and the ability to manage multiple activities concurrently so that all the food is ready at the same time and on time. Lay Sister Fonete has been the abbey’s head cook for seventeen years and is a master of the culinary arts. She rarely has fewer that twenty people working for her at one time. This can include priestesses, acolytes, lay sisters and brothers, familia (mostly the wives of cottars), able-bodied guests and servants of wealthy visitors. Although the helpers may vary from day to day, she relies on three lay sisters who are her assistant cooks and help her keep things running properly. Fonete rarely does any actual cooking anymore; instead she is kept busy keeping everyone else busy.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "XFvcIC5mkREnh8Si",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.XFvcIC5mkREnh8Si"
+    },
+    {
+      "name": "Hedge and Ditch",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 9</p>\n<p>An outer shallow ditch and inner low berm crowned by an impenetrably thick, mature hawthorn and blackthorn hedgerow marks the outer limits of the Holy Enclosure and sacred ground.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "3PGxNfUlsxQ1xWYH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.3PGxNfUlsxQ1xWYH"
+    },
+    {
+      "name": "Herb Garden",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 5</p>\n<p>A waist-high wattle fence surrounds this aromatic plot full of various medicinal herbs. An ancient old lay brother devotedly tends it. Nearly eighty and almost blind, Lay Brother Alwith knows every plant by touch, smell and location. There is not a single weed.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "vDT1yaAqkrinMz2F",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.vDT1yaAqkrinMz2F"
+    },
+    {
+      "name": "Herbarium / Apothecary",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 15</p>\n<p>This hut is the domain of the abbey apothecary, Sister Elycia, an Ebasethe and skilled herbalist.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "rlT1WrbbI1YsT6mz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.rlT1WrbbI1YsT6mz"
+    },
+    {
+      "name": "Hospital",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 4</p>\n<p>Built with the full financial support of Queen Chelebin III, the stone-walled hospital is massive. Two rows of timber pillars support a broad timber roof over a single, vast ward with 65 beds. The hospital is never empty, and often fills to overflowing, with patients sleeping on straw ticks on the floor. The devoted nuns tend their patients with equal doses of love, good food, the finest medicine available, and (most importantly) faith. It helps that the ward is kept meticulously clean and patients are grouped by ailment. Even this huge building has proved incapable of meeting the demands placed on it and the well-stocked apothecary’s store and soundproofed surgery had to be added on to the end of the building.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "uVVMHCmHGlFjXstr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.uVVMHCmHGlFjXstr"
+    },
+    {
+      "name": "Hot Springs",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 1</p>\n<p>Steaming hot water from natural mineral springs flows out of tiny cracks in the face of a rock outcropping stained bright orange by millennia of iron deposits. Long considered therapeutic by the Jarin, Erone has been a popular pilgrimage site for a thousand years. Drawn by its healing waters, the Peonians established an abbey here in 335TR. Originally, pilgrims bathed directly in the pool at the base of the small cliff. Over time, the sides of the pond were worn smooth and several sick and weak pilgrims were unable to get out on their own and had to be rescued. To remedy the problem, a chapel was built and the water funnelled into a stepped pool. Some pilgrims still insist on bathing in the open pond, but most prefer the sanctity and ease of the chapel pool.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "ttNnz7n8DflQIdpT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.ttNnz7n8DflQIdpT"
+    },
+    {
+      "name": "Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 29</p>\n<p>When the abbey is full (and it often is), preparing sufficient food is a full time job and requires considerable planning and prep work. The kitchen serves very simple, wholesome meals. Most of the Ebasethe and Esolani are vegetarians, however the kitchen also prepares meat dishes, especially for the very sick. Some patients, the victims of harsh living conditions, have recovered simply though bed rest and regular hearty meals. The abbey serves two meals per day. The main meal is served mid-morning, after the morning prayers and first rounds are done in the hospital. The second, lighter meal is served in late afternoon.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "pSOw4229Mf3KPVfs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.pSOw4229Mf3KPVfs"
+    },
+    {
+      "name": "Kitchen Annex",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 30</p>\n<p>The main kitchen is often filled to overflowing with workers preparing meals. This hut was built as an extension to the main kitchen. It is primarily used for cleaning, preparing, pickling and preserving vegetables, which are stored in the large root cellar beneath the building. During the winter, much of the diet of the vegetarian Peonian priestesses and acolytes consists of preserved vegetables (especially lentils and other beans). Pickles are particularly popular.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "nWX6GdTXrsltJ0Bz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3050000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.nWX6GdTXrsltJ0Bz"
+    },
+    {
+      "name": "Kitchen Garden",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 32</p>\n<p>As befits Peoni’s role as the goddess of agriculture, the abbey has a large kitchen garden devoted to growing of vegetables for the abbey table. All members of the abbey tend it in turn. Perhaps due to Peoni’s favour (or good management), it is always overflowing with healthy, productive plants.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "LBH73ochvTpng0zU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3087500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.LBH73ochvTpng0zU"
+    },
+    {
+      "name": "Lady Besnia’s House",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 16</p>\n<p>This is the home of the mother of the Baron of Ternua, a social outcast since she was stricken with leprosy two years ago. The baron is devoted to his mother. He generously supports the abbey in thanks for the care and compassion they have shown her when others turned away. The lady receives her meals in the privacy of her home and is rarely seen. She only ventures out after dark, heavily cloaked, to pray at the main temple. The sisters bring her books from their library.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "Z4gjQG59yL1lV7dO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.Z4gjQG59yL1lV7dO"
+    },
+    {
+      "name": "Library and Scriptorium",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 14</p>\n<p>This building houses the records of the Order of the Balm of Joy, an extensive collection of Peonian sacred texts, and the largest collection of medical books in Kaldor. The library has four desks for use of the copyists. Although it is never locked, due to the importance and value of the documents kept here, it is checked regularly through the night by the duty lay brother on fire picket. One of the abbey’s few stone buildings, it has glass windows, an expensive luxury donated by a wealthy patron. The abbess is considering selling the glass to help repay the debt for repairing the hospital roof.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "91UhwtXfJ1qmGtfW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.91UhwtXfJ1qmGtfW"
+    },
+    {
+      "name": "Maermal’s Chapel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 36</p>\n<p>The small chapel devoted to the Lord of Honest Labour and Diligent Effort is used for funeral rites. It has two stone slabs for cleaning and preparing the dead for burial.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "47QKL3znQYhIgtgU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.47QKL3znQYhIgtgU"
+    },
+    {
+      "name": "Main Gate",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 18</p>\n<p>A large opening facing the main road is protected only by simple wattle hurtles to keep animals from straying.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "ejzK68LfzXilagIF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.ejzK68LfzXilagIF"
+    },
+    {
+      "name": "Meadows of Valon",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 37</p>\n<p>Named for the Peonian heaven, the abbey cemetery is a modest place surrounded by simple dry-laid stonewalls with neat rows of plots marked with stone grave markers. The cemetery is carpeted with a lush variety of flowers, especially daisies, beloved of Peoni. In the centre of the cemetery is a beautiful stone statue of the goddess donated by a grateful patron.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "uNqmMgKSmCaGLvS7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.uNqmMgKSmCaGLvS7"
+    },
+    {
+      "name": "Mill",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 20</p>\n<p>This mill is owned by the abbey and operated by a bonded miller, Ustin of Asan, who lives in the village [29]. Although, as directed by the Abbess, the miller charges the lowest fee for milling permitted by the guild, it is still a significant source of revenue for the abbey.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "yonGOSis9ijGcHRY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.yonGOSis9ijGcHRY"
+    },
+    {
+      "name": "Pelnala’s House",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 10</p>\n<p>The largest private residence in the abbey, the Pelnala’s (Abbess) House is simple but comfortable. Pelnala Velira Siwen, 51, abbess since 715, is a highly spiritual woman who has little interest in political events, leaving them to Sulaplyn Brygyne of Kynge at the Tashal temple. She runs the abbey thorough a combination of personal example and a keen understanding of how to motivate people. She can determine who needs a light touch and free rein and who needs a firm guiding hand and close supervision. Velira delegates tasks to her handpicked subordinates and “leads by walking around”. She will rarely be found in her house. She prefers to roam the abbey, observing, giving advice and direction.</p>\n<p>The house was built many years ago. The current Pelnala considers it too grand, but recognizes she does need a private place to work. One concession she appreciates is the luxury of a private fireplace. She uses it only sparingly, but revels in the warmth when her arthritis bothers her in the winter. The abbey’s small financial reserve is kept in the false bottom of an unlocked chest.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "Ewp4zXm5G2WlPGfu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.Ewp4zXm5G2WlPGfu"
+    },
+    {
+      "name": "Peoni’s Temple",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 17</p>\n<p>Built on a hill overlooking the Genin Trail, the abbey’s main temple is a simple, but impressive building. It has a high ceiling, dirt floor, and no pews. There is a door to the small sacristy in the east corner and the “Portal of the Mendicants” in the west corner. The main temple also serves as the village church and one Ebasethe, Sister Dasyne, is assigned full time as the village priestess.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "GNBLzWCOlEJ10nuW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.GNBLzWCOlEJ10nuW"
+    },
+    {
+      "name": "Reception",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 19</p>\n<p>Here an Ebasethe meets visitors, directing them to the appropriate part of the abbey. She also enses alms (mainly food) to needy travellers.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "uhTR8MGfQGFaY7Mh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.uhTR8MGfQGFaY7Mh"
+    },
+    {
+      "name": "Refectory",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 33</p>\n<p>In a pinch, the abbey dining hall can sit up to 140 people, though it usually only sees about 110 for the two meals per day. Many of the patients in the hospital are too sick to be moved, so their meals are delivered to them. The trestle tables and benches can easily be relocated to allow the building to be used for other purposes, including overflow guest accommodation. Despite the fact that the refectory has only one fire pit, when it is full of people the body heat keeps it very warm even on the coldest nights.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "YPMBrGa2s5IVOGLd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3093750,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.YPMBrGa2s5IVOGLd"
+    },
+    {
+      "name": "Rivulet",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 7</p>\n<p>The narrow stream, just a couple of feet wide, drains the hot springs. The sides and bottom of the stream are lined with a thick layer of orange-brown slime. The mud from the rivulet has proven quite beneficial for dealing with skin ailments.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "uWfNR2IZgFXq9uI2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.uWfNR2IZgFXq9uI2"
+    },
+    {
+      "name": "Stables",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 22</p>\n<p>Few Peonians ride, but the abbey maintains a small stable for the use of their guests. There is a loft for fodder above the stalls.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "QVxvGnEJNE5F1BaO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.QVxvGnEJNE5F1BaO"
+    },
+    {
+      "name": "The Abbey Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>The tradition of dividing the abbey up into quarters started as a joke. One day, while trying to come up with grand sounding names, one of the nuns joked that the northeast corner should be called the spring quarter because that is where the spring was. This led to a lively discussion. Obviously, the cemetery in the southeast corner represented the end of life, and so was obviously the winter quarter. The southwest corner, with its tithe barn filled with the harvest from the fields was the autumn quarter. That left the northwest corner, with its great temple surrounded by trees and lush grass as the summer quarter. All of this neatly fit into the cycle of seasons. Only Peoni could have inspired such divine simplicity, and so, with a clap of her hands, the Abbess said, “Let it be so.” And thus were the four quarters named.</p>\n<h2>Spring Quarter</h2>\n<ol>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.ttNnz7n8DflQIdpT]{Hot Springs}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.2BFef11O0wV8e7J4]{Tirrala’s Chapel}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.a8wUEQpqAMv3KAnS]{Abbey Holy Symbol}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.uVVMHCmHGlFjXstr]{Hospital}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.vDT1yaAqkrinMz2F]{Herb Garden}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.Wp4642wVdn4oCPt8]{Yselde’s Chapel}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.uWfNR2IZgFXq9uI2]{Rivulet}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.JXPI7otyFs8aEyFS]{Esolani’s Dorter 1}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.3PGxNfUlsxQ1xWYH]{Hedge and Ditch}</li>\n</ol>\n<h2>Summer Quarter</h2>\n<ol start=\"10\">\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.Ewp4zXm5G2WlPGfu]{Pelnala’s House}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.xZqqjngNNRzaQ3vR]{Ebasethe’s Dorter}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.8Zl2VRtyyGmogPqp]{Archives}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.IVhgeWjKNgjhkqop]{Belsirasin’s Chapel}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.91UhwtXfJ1qmGtfW]{Library and Scriptorium}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.rlT1WrbbI1YsT6mz]{Herbarium / Apothecary}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.Z4gjQG59yL1lV7dO]{Lady Besnia’s House}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.GNBLzWCOlEJ10nuW]{Peoni’s Temple}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.ejzK68LfzXilagIF]{Main Gate}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.uhTR8MGfQGFaY7Mh]{Reception}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.yonGOSis9ijGcHRY]{Mill}</li>\n</ol>\n<h2>Autumn Quarter</h2>\n<ol start=\"21\">\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.cDtKRFodJacz75e7]{Tithe Barn}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.QVxvGnEJNE5F1BaO]{Stables}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.59Oe909KUFcLtdNr]{Brewery}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.vcXzRj1wPNxNzUoD]{Brew Mistress’ House}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.7OvaHYznMOZtYjWN]{Baker’s House}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.NI1iIFdyEHISctjA]{Bakery}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.eaLWPn6tV2YNozAp]{Esolani’s Dorter 2}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.XFvcIC5mkREnh8Si]{Head Cook’s House}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.pSOw4229Mf3KPVfs]{Kitchen}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.nWX6GdTXrsltJ0Bz]{Kitchen Annex}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.g7MocwiATdlDYZGx]{Guest Lodge}</li>\n</ol>\n<h2>Winter Quarter</h2>\n<ol start=\"32\">\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.LBH73ochvTpng0zU]{Kitchen Garden}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.YPMBrGa2s5IVOGLd]{Refectory}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.OBTiRrPorMG6ZqmO]{Traveller’s Hostel}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.FOOsMIgnN7UnIHDW]{Back Gate}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.47QKL3znQYhIgtgU]{Maermal’s Chapel}</li>\n<li>@UUID[JournalEntry.0R9Km6jDsZZOtN7V.JournalEntryPage.uNqmMgKSmCaGLvS7]{Meadows of Valon}</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "fh5m5FLyWKoWLIkB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.fh5m5FLyWKoWLIkB"
+    },
+    {
+      "name": "Tirrala’s Chapel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 2</p>\n<p>Dedicated to Peoni’s semi-divine servant, the Handmaiden of Renewal, Foremost of Healers, this small, three hundred year old chapel is the oldest stone building in the abbey. Funded by the Physician‘s Guild, a surgeon’s knife and urn is carved over the door. A priestess is always present, day or night, to receive pilgrims’ sincere confession. Then, the priestess leads pilgrims down the steps into the warm, inviting waters. Once immersed in the pool, the supplicant is plunged completely into the healing waters four times. This washes away their sins and cleanses their body of all spiritual impurities. Many miracles have occurred here, especially among those who drink deeply of the waters with each plunge. Small glazed and stoppered clay jars are available so pilgrims can take some of the healing waters home with them. Offerings are gratefully accepted, but not required.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "2BFef11O0wV8e7J4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.2BFef11O0wV8e7J4"
+    },
+    {
+      "name": "Tithe Barn",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 21</p>\n<p>Sister Sabal, one of the Ebasethes, carefully manages the contents of this massive cruckframed building. Despite the large amount of food grown on the demesne farm, the significant tithes paid by the tenants, and donations from surrounding manors, the food stored here must provide for the patients in the hospital (60+), provide alms to the poor (locals, travellers and 40+/- guests in the hostel), and feed the members of the abbey (90+ people). This requires careful management to ensure there is enough to last through the whole year. Sister Sabal reports to the Avasana. The sisters in the archives assist her with record keeping; several lay brothers and male villagers (familia) do the heavy labour. Despite her fine stewardship, it is always a challenge to feed the abbey throughout the year. Often, just prior to harvest, Sister Sabal has to be creative to meet the abbey’s needs.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "cDtKRFodJacz75e7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.cDtKRFodJacz75e7"
+    },
+    {
+      "name": "Traveller’s Hostel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 34</p>\n<p>Peonians are known for their hospitality. The abbey has a large hostel, which can sleep up to forty. Additional space can be made in the refectory or even in the barn or stables, so no guest goes without shelter. Guests are encouraged to donate whatever they can to help pay the abbey’s many expenses. No one is ever turned away for having nothing to donate.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "OBTiRrPorMG6ZqmO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3096875,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.OBTiRrPorMG6ZqmO"
+    },
+    {
+      "name": "Yselde’s Chapel",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> 6</p>\n<p>In the shadow of a great oak tree stands a round thatched hut with open sides. Dedicated to the Trothmaker, Mistress of Honourable Love, this is where Peonian wedding ceremonies take place. Being married in this chapel is believed to ensure a happy marriage and many healthy children.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "Wp4642wVdn4oCPt8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!0R9Km6jDsZZOtN7V.Wp4642wVdn4oCPt8"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201997358,
+    "modifiedTime": 1659201997358,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "0R9Km6jDsZZOtN7V",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!0R9Km6jDsZZOtN7V"
+}
